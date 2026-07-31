@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Alpine A524', 'McLaren MCL40']
+
+roboflow:
+  workspace: mhossains-workspace
+  project: my-first-project-r674r
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mhossains-workspace/my-first-project-r674r/dataset/dataset
