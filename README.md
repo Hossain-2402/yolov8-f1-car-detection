@@ -6,7 +6,7 @@ Real-time object detection of **Alpine A524** and **McLaren MCL40** Formula 1 ca
 
 ### Inference Result
 
-![YOLOv8 F1 Car Detection Demo](assets/final_test.mp4)
+![YOLOv8 F1 Car Detection Demo](assets/ss.png)
 
 > The model successfully detects both cars across different angles, distances, and with partial occlusions (including hand interactions).
 
